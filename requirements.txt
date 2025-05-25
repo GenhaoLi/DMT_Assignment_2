@@ -7,3 +7,4 @@ kaggle
 scipy~=1.15.3
 tqdm~=4.67.1
 joblib~=1.5.0
+lightgbm~=4.6.0
